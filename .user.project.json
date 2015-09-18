@@ -1,0 +1,36 @@
+{
+  "run": [
+    {
+      "filePath": "/sap.training.exc15.components-2/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 7094256,
+        "displayName": "New Web Application 1"
+      }
+    },
+    {
+      "filePath": "/sap.training.exc15.components/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 1547439,
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}

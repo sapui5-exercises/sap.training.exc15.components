@@ -1,0 +1,9 @@
+<core:View
+		xmlns:core="sap.ui.core"
+		xmlns="sap.m"
+		controllerName="sap.training.exc15.components.carriers.view.Main"
+		xmlns:html="http://www.w3.org/1999/xhtml">
+		
+	<Button press="onOpenDialog" text="{i18n>showDialogButtonText}"/>
+	
+</core:View>
