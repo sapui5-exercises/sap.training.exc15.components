@@ -55,7 +55,9 @@
 			},
 			"": {
 				"dataSource": "<...>",
-				"settings": {}
+				"settings": {
+					"disableHeadRequestForToken": true
+				}
 			}
 		}
 	}
